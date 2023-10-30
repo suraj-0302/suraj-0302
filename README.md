@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-0302&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-0302" /> </p>
 
-- 🔭 I’m currently [studying](Industrial and systems Engineering)
+- 🔭 I’m currently studying **Industrial and systems Engineering**
 
 - 🌱 I’m currently learning **Backend development and Supervised Machine Learning Techniques**
 
